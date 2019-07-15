@@ -1,0 +1,26 @@
+.custom-form-inline .form-group{
+	display: inline-block !important;
+}
+
+.navbar-toggle{
+	display: none;
+}
+
+.navbar-inverse {
+    border-color: #e7e7e7;
+    background-color: #4EC0DA;
+}
+.navbar-inverse .navbar-toggle {
+	border-color: #e7e7e7;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+@media (min-width: 768px){
+	.mbm{
+		margin-bottom: 15px;
+	}
+}
+
